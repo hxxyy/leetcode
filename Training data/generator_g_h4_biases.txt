@@ -1,0 +1,2 @@
+tensor_name:  generator/g_h4/biases
+[ 0.12764537 -0.03300438  0.02389819]
